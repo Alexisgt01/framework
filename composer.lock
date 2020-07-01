@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8d473a3c633e87e25e72d425e2a5854a",
+    "packages": [
+        {
+            "name": "alexisgt01/we-router",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Alexisgt01/weRouter.git",
+                "reference": "8eef2a3986bad9183603c9a71d96ba0bb6e9f46c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Alexisgt01/weRouter/zipball/8eef2a3986bad9183603c9a71d96ba0bb6e9f46c",
+                "reference": "8eef2a3986bad9183603c9a71d96ba0bb6e9f46c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6.0"
+            },
+            "require-dev": {
+                "larapack/dd": "^1.1",
+                "phpunit/phpunit": "^9.1"
+            },
+            "type": "package",
+            "autoload": {
+                "psr-4": {
+                    "WeRouter\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Alexis",
+                    "email": "alexis.gatuingt@gmail.com",
+                    "homepage": "https://github.com/Alexisgt01"
+                }
+            ],
+            "description": "PHP Router based on Laravel syntax",
+            "homepage": "https://github.com/Alexisgt01/weRouter",
+            "keywords": [
+                "php",
+                "router",
+                "routing"
+            ],
+            "time": "2020-05-13T10:11:23+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
